@@ -21,7 +21,7 @@ Our goals:
 | Repo | What it does |
 |------|-------------|
 | [`space-hog`](https://github.com/rhea-impact/space-hog) | CLI tool for finding and reclaiming wasted disk space on macOS. Prioritized cleanup advice, Docker analysis, AI-friendly recommendations. |
-| [`applaud`](https://github.com/rhea-impact/applaud) | Svelte-based web experience for interacting with Rhea Impact tools and services. |
+| [`applaud`](https://github.com/rhea-impact/applaud) | A chat-native Claude Code client with hot-swappable themes, built with Svelte and Tauri. |
 | [`rheaimpact-com`](https://github.com/rhea-impact/rheaimpact-com) | Source for our public website at [rheaimpact.com](https://rheaimpact.com). |
 
 ## How You Can Use Our Software
